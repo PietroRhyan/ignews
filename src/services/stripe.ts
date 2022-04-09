@@ -1,4 +1,4 @@
-import Stripe from 'stripe'
+import { Stripe } from 'stripe'
 import { version } from '../../package.json'
 
 export const stripe = new Stripe(
