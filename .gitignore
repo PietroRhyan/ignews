@@ -9,12 +9,14 @@ stripe.exe
 # testing
 /coverage
 
+
 # next.js
 /.next/
 /out/
 
 # production
 /build
+sm.json
 
 # misc
 .DS_Store
